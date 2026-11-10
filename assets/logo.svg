@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 80" role="img" aria-label="Farkas Media &amp; Transport">
+  <!-- Bildmarke: F aus drei Balken, unterer Balken als Fahrbahn mit Mittelstreifen -->
+  <g transform="translate(4 8)">
+    <rect width="64" height="64" rx="12" fill="#0F2742"/>
+    <rect x="14" y="13" width="36" height="9" rx="2" fill="#FFFFFF"/>
+    <rect x="14" y="28" width="26" height="9" rx="2" fill="#FFFFFF"/>
+    <rect x="14" y="13" width="9" height="38" rx="2" fill="#FFFFFF"/>
+    <rect x="28" y="44" width="22" height="7" rx="2" fill="#F28C28"/>
+    <rect x="31" y="46.75" width="5" height="1.5" fill="#0F2742"/>
+    <rect x="40" y="46.75" width="5" height="1.5" fill="#0F2742"/>
+  </g>
+  <text x="84" y="44" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="1" fill="#0F2742">FARKAS</text>
+  <text x="86" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3.2" fill="#F28C28">MEDIA &amp; TRANSPORT</text>
+</svg>
