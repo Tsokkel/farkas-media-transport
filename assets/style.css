@@ -156,6 +156,7 @@ section { padding: 96px 0; }
 }
 .contact-list a:hover { border-color: var(--orange); }
 .contact-list svg { color: var(--orange); flex: none; }
+.contact-list div { min-width: 0; overflow-wrap: anywhere; }
 .contact-list small { display: block; font-weight: 400; color: rgba(255,255,255,.65); font-size: .82rem; }
 
 /* Footer */
